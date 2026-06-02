@@ -1,35 +1,35 @@
 [
   {
     "title": "SE101 - PF Fall 2022 Mid",
-    "keywords": "mid fall fundamentals mids midterm fundamental programming pf se101 2022",
+    "keywords": "fundamentals mid fundamental midterm se101 pf 2022 programming fall mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/SE/SE101_PF_Fall_2022_Mid.webp"
     ]
   },
   {
     "title": "SE101 - PF Fall 2023 Final",
-    "keywords": "2023 finals fundamentals fall terminal fundamental programming pf final se101",
+    "keywords": "fundamentals fundamental se101 terminal pf final 2023 programming fall finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/SE/SE101_PF_Fall_2023_Final.webp"
     ]
   },
   {
     "title": "SE101 - PF Fall 2023 Mid",
-    "keywords": "2023 mid fall fundamentals midterm fundamental programming pf se101 mids",
+    "keywords": "fundamentals mid fundamental midterm se101 pf 2023 programming fall mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/SE/SE101_PF_Fall_2023_Mid.webp"
     ]
   },
   {
     "title": "SE308 - IS Spring 2023 Mid",
-    "keywords": "2023 mid mids is midterm security spring se308 information",
+    "keywords": "mid security is midterm se308 spring 2023 mids information",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/SE/SE308_IS_Spring_2023_Mid.webp"
     ]
   },
   {
     "title": "SE324 - SPM Fall 2023 Mid",
-    "keywords": "2023 project mid fall se324 management midterm software spm mids",
+    "keywords": "mid midterm management project se324 2023 fall software mids spm",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/SE/SE324_SPM_Fall_2023_Mid_pg1.webp",
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/SE/SE324_SPM_Fall_2023_Mid_pg2.webp"
@@ -37,14 +37,14 @@
   },
   {
     "title": "SE350-CESE101 - PP Spring 2024 Mid",
-    "keywords": "2024 se350-cese101 mid midterm professional cese101 pp practices spring se350 mids",
+    "keywords": "mid se350 midterm spring practices se350-cese101 cese101 2024 professional pp mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/SE/SE350-CESE101_PP_Spring_2024_Mid.webp"
     ]
   },
   {
     "title": "SS201 - ECO Spring 2021 Final",
-    "keywords": "eco finals terminal economics ss201 2021 spring final",
+    "keywords": "eco economics 2021 terminal spring finals final ss201",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/SS/SS201_ECO_Spring_2021_Final_pg1.webp",
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/SS/SS201_ECO_Spring_2021_Final_pg2.webp"
@@ -52,127 +52,141 @@
   },
   {
     "title": "SS201 - ECO Spring 2021 Mid",
-    "keywords": "eco mid economics ss201 midterm 2021 spring mids",
+    "keywords": "eco mid economics midterm 2021 spring mids ss201",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/SS/SS201_ECO_Spring_2021_Mid_pg1.webp",
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/SS/SS201_ECO_Spring_2021_Mid_pg2.webp"
     ]
   },
   {
+    "title": "SS301 - PP Spring 2026 Final E",
+    "keywords": "ss301 evening 2026 terminal replica spring practices self-support pp professional final finals",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/SS/SS301_PP_Spring_2026_Final-E.webp"
+    ]
+  },
+  {
+    "title": "SS301 - PP Spring 2026 Final M",
+    "keywords": "ss301 morning regular 2026 terminal spring practices pp professional final finals",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/SS/SS301_PP_Spring_2026_Final-M.webp"
+    ]
+  },
+  {
     "title": "MA210 - LA Spring 2023 Final",
-    "keywords": "2023 finals ma210 linear la terminal algebra math spring final",
+    "keywords": "la linear terminal ma210 math algebra spring final 2023 finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/MATH/MA210_LA_Spring_2023_Final.webp"
     ]
   },
   {
     "title": "MATH107 - CAG Fall 2022 Final E",
-    "keywords": "finals fall cag terminal self-support and calculus geometry analytical math107 evening final replica 2022",
+    "keywords": "calculus and evening terminal cag replica math107 geometry self-support analytical final 2022 fall finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/MATH/MATH107_CAG_Fall_2022_Final-E.webp"
     ]
   },
   {
     "title": "MATH107 - CAG Fall 2022 Final",
-    "keywords": "finals fall cag terminal and calculus geometry analytical math107 final 2022",
+    "keywords": "calculus and terminal cag math107 geometry analytical final 2022 fall finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/MATH/MATH107_CAG_Fall_2022_Final.webp"
     ]
   },
   {
     "title": "MATH107 - CAG Fall 2023 Final",
-    "keywords": "2023 finals fall cag terminal and calculus geometry analytical math107 final",
+    "keywords": "calculus and terminal cag math107 geometry analytical final 2023 fall finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/MATH/MATH107_CAG_Fall_2023_Final.webp"
     ]
   },
   {
     "title": "MATH110 - MC Fall 2024 Final",
-    "keywords": "2024 finals multivariable fall mc terminal calculus math math110 final",
+    "keywords": "calculus terminal math110 math mc 2024 multivariable final fall finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/MATH/MATH110_MC_Fall_2024_Final.webp"
     ]
   },
   {
     "title": "MATH110 - MC Spring 2020 Final",
-    "keywords": "finals multivariable mc terminal calculus spring math math110 final 2020",
+    "keywords": "calculus 2020 terminal math110 math spring mc multivariable final finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/MATH/MATH110_MC_Spring_2020_Final.webp"
     ]
   },
   {
     "title": "MATH110 - MC Spring 2022 Mid",
-    "keywords": "mid multivariable mids mc midterm calculus spring math math110 2022",
+    "keywords": "calculus mid midterm math110 math spring mc multivariable 2022 mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/MATH/MATH110_MC_Spring_2022_Mid.webp"
     ]
   },
   {
     "title": "MATH110 - MC Spring 2024 Final",
-    "keywords": "2024 finals multivariable mc terminal calculus spring math math110 final",
+    "keywords": "calculus terminal math110 math spring mc 2024 multivariable final finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/MATH/MATH110_MC_Spring_2024_Final.webp"
     ]
   },
   {
     "title": "MATH110 - MC Spring 2024 Mid JamilAhmad",
-    "keywords": "2024 mid multivariable miss sir jamilahmad mc midterm calculus mam spring math math110 mids",
+    "keywords": "calculus mid midterm sir math110 math spring mc 2024 multivariable mam jamilahmad mids miss",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/MATH/MATH110_MC_Spring_2024_Mid-JamilAhmad.webp"
     ]
   },
   {
     "title": "MATH110 - MC Spring 2024 Mid ProfJamilAhmad",
-    "keywords": "2024 mid multivariable miss sir mc midterm calculus mam spring math math110 profjamilahmad mids",
+    "keywords": "calculus mid midterm sir math110 math spring mc profjamilahmad 2024 multivariable mam mids miss",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/MATH/MATH110_MC_Spring_2024_Mid-ProfJamilAhmad.webp"
     ]
   },
   {
     "title": "MATH110 - MC Spring 2025 Mid",
-    "keywords": "mid multivariable mc midterm calculus 2025 spring math math110 mids",
+    "keywords": "calculus mid 2025 midterm math110 math spring mc multivariable mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/MATH/MATH110_MC_Spring_2025_Mid.webp"
     ]
   },
   {
     "title": "MATH111 - DE Fall 2022 Final",
-    "keywords": "finals fall de terminal equations math111 differential final 2022",
+    "keywords": "terminal differential math111 finals final 2022 fall de equations",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/MATH/MATH111_DE_Fall_2022_Final.webp"
     ]
   },
   {
     "title": "MATH111 - DE Fall 2023 Mid",
-    "keywords": "2023 mid fall de equations midterm math111 differential mids",
+    "keywords": "mid midterm differential math111 2023 fall de equations mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/MATH/MATH111_DE_Fall_2023_Mid.webp"
     ]
   },
   {
     "title": "MATH314 - LA Spring 2023 Mid",
-    "keywords": "2023 linear mid la math314 midterm algebra math spring mids",
+    "keywords": "mid math314 la linear midterm math algebra spring 2023 mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/MATH/MATH314_LA_Spring_2023_Mid.webp"
     ]
   },
   {
     "title": "MATH314 - LA Spring 2025 Final",
-    "keywords": "finals linear la terminal math314 2025 algebra math spring final",
+    "keywords": "math314 2025 la linear terminal math algebra spring final finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/MATH/MATH314_LA_Spring_2025_Final.webp"
     ]
   },
   {
     "title": "IT106 - OOP Fall 2024 Final",
-    "keywords": "2024 finals object fall terminal it106 programming oop final oriented",
+    "keywords": "oop oriented terminal it106 2024 final programming fall finals object",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT106_OOP_Fall_2024_Final.webp"
     ]
   },
   {
     "title": "IT106 - OOP Spring 2023 Final",
-    "keywords": "2023 finals object terminal it106 programming oop spring final oriented",
+    "keywords": "oop oriented terminal it106 spring final 2023 programming finals object",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT106_OOP_Spring_2023_Final_pg1.webp",
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT106_OOP_Spring_2023_Final_pg2.webp"
@@ -180,105 +194,105 @@
   },
   {
     "title": "IT121 - DS Spring 2023 Final",
-    "keywords": "2023 finals ds terminal it121 structures spring final data discrete",
+    "keywords": "ds structures it121 discrete terminal data spring final 2023 finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT121_DS_Spring_2023_Final.webp"
     ]
   },
   {
     "title": "IT202 - ITI Spring 2022 Final",
-    "keywords": "information finals iti terminal it202 technology infrastructure spring final 2022",
+    "keywords": "terminal technology spring infrastructure it202 iti final 2022 finals information",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT202_ITI_Spring_2022_Final.webp"
     ]
   },
   {
     "title": "IT202 - ITI Spring 2022 Mid",
-    "keywords": "information mid mids iti midterm it202 technology infrastructure spring 2022",
+    "keywords": "mid midterm technology spring infrastructure it202 iti 2022 mids information",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT202_ITI_Spring_2022_Mid.webp"
     ]
   },
   {
     "title": "IT209 - DS Fall 2024 Final",
-    "keywords": "2024 finals fall ds terminal structures it209 final data discrete",
+    "keywords": "ds structures discrete terminal data it209 2024 final fall finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT209_DS_Fall_2024_Final.webp"
     ]
   },
   {
     "title": "IT217 - IS Spring 2022 Final",
-    "keywords": "it217 information finals is terminal security spring final 2022",
+    "keywords": "security is terminal it217 spring final 2022 finals information",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT217_IS_Spring_2022_Final.webp"
     ]
   },
   {
     "title": "IT217 - IS Spring 2024 Final",
-    "keywords": "2024 it217 finals is terminal security spring final information",
+    "keywords": "security is terminal it217 spring 2024 final finals information",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT217_IS_Spring_2024_Final.webp"
     ]
   },
   {
     "title": "IT217 - IS Spring 2024 Mid E",
-    "keywords": "2024 it217 mid mids is self-support midterm security evening spring replica information",
+    "keywords": "mid security is midterm evening replica it217 spring self-support 2024 mids information",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT217_IS_Spring_2024_Mid-E.webp"
     ]
   },
   {
     "title": "IT217 - IS Spring 2024 Mid",
-    "keywords": "2024 it217 mid mids is midterm security spring information",
+    "keywords": "mid security is midterm it217 spring 2024 mids information",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT217_IS_Spring_2024_Mid.webp"
     ]
   },
   {
     "title": "IT221 - ISE Spring 2023 Final",
-    "keywords": "2023 finals terminal to introduction software engineering it221 ise spring final",
+    "keywords": "terminal ise engineering spring introduction to final 2023 software it221 finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT221_ISE_Spring_2023_Final.webp"
     ]
   },
   {
     "title": "IT221 - SE Spring 2024 Final",
-    "keywords": "2024 finals se terminal software engineering it221 spring final",
+    "keywords": "terminal spring se 2024 software final engineering it221 finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT221_SE_Spring_2024_Final.webp"
     ]
   },
   {
     "title": "IT221 - SE Spring 2024 Mid",
-    "keywords": "2024 mid se midterm software engineering it221 spring mids",
+    "keywords": "mid midterm spring se 2024 software engineering mids it221",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT221_SE_Spring_2024_Mid.webp"
     ]
   },
   {
     "title": "IT223 - SRE Fall 2023 Final",
-    "keywords": "2023 finals it223 sre fall requirement terminal software engineering final",
+    "keywords": "requirement terminal fall sre engineering final 2023 it223 software finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT223_SRE_Fall_2023_Final.webp"
     ]
   },
   {
     "title": "IT224 - OS Spring 2022 Final",
-    "keywords": "finals os terminal operating systems spring it224 final 2022",
+    "keywords": "terminal spring os it224 operating systems final 2022 finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT224_OS_Spring_2022_Final.webp"
     ]
   },
   {
     "title": "IT224 - OS Spring 2023 Final E",
-    "keywords": "2023 finals os terminal self-support operating systems spring it224 final replica evening",
+    "keywords": "evening terminal replica spring os self-support it224 operating systems final 2023 finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT224_OS_Spring_2023_Final-E.webp"
     ]
   },
   {
     "title": "IT224 - OS Spring 2023 Final",
-    "keywords": "2023 finals os terminal operating systems spring it224 final",
+    "keywords": "terminal spring os it224 operating systems final 2023 finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT224_OS_Spring_2023_Final_pg1.webp",
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT224_OS_Spring_2023_Final_pg2.webp"
@@ -286,252 +300,252 @@
   },
   {
     "title": "IT243 - DBS Spring 2023 Final",
-    "keywords": "2023 finals it243 dbs terminal spring final",
+    "keywords": "dbs terminal spring final 2023 it243 finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT243_DBS_Spring_2023_Final.webp"
     ]
   },
   {
     "title": "IT243 - DBS Spring 2024 Final",
-    "keywords": "2024 finals it243 dbs terminal spring final",
+    "keywords": "dbs terminal spring 2024 final it243 finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT243_DBS_Spring_2024_Final.webp"
     ]
   },
   {
     "title": "IT303 - VP Fall 2022 Final",
-    "keywords": "finals fall vp it303 terminal programming final visual 2022",
+    "keywords": "terminal vp visual final 2022 programming fall finals it303",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT303_VP_Fall_2022_Final.webp"
     ]
   },
   {
     "title": "IT331 - AI Spring 2023 Final E",
-    "keywords": "2023 finals terminal it331 self-support intelligence spring ai final replica artificial evening",
+    "keywords": "it331 ai evening artificial terminal replica spring self-support final 2023 intelligence finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT331_AI_Spring_2023_Final-E.webp"
     ]
   },
   {
     "title": "IT331 - AI Spring 2023 Final",
-    "keywords": "2023 finals terminal it331 intelligence spring ai final artificial",
+    "keywords": "it331 ai artificial terminal spring final 2023 intelligence finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT331_AI_Spring_2023_Final.webp"
     ]
   },
   {
     "title": "IT331 - AI Spring 2023 Mid SafiUllah",
-    "keywords": "2023 mid miss safiullah sir it331 midterm intelligence mam spring ai artificial mids",
+    "keywords": "mid it331 ai midterm sir artificial spring safiullah mam 2023 intelligence miss mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT331_AI_Spring_2023_Mid-SafiUllah.webp"
     ]
   },
   {
     "title": "IT331 - AI Spring 2023 Mid",
-    "keywords": "2023 mid it331 midterm intelligence spring ai artificial mids",
+    "keywords": "mid it331 ai midterm artificial spring 2023 intelligence mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT331_AI_Spring_2023_Mid.webp"
     ]
   },
   {
     "title": "IT333 - VSS Fall 2022 Final",
-    "keywords": "finals fall it333 terminal and vss systems virtual services final 2022",
+    "keywords": "and services virtual vss terminal it333 systems final 2022 fall finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT333_VSS_Fall_2022_Final.webp"
     ]
   },
   {
     "title": "IT333 - VSS Fall 2023 Final",
-    "keywords": "2023 finals fall it333 terminal and vss systems virtual services final",
+    "keywords": "and services virtual vss terminal it333 systems final 2023 fall finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT333_VSS_Fall_2023_Final.webp"
     ]
   },
   {
     "title": "IT333 - VSS Fall 2023 Mid",
-    "keywords": "2023 mid fall it333 and midterm vss systems virtual services mids",
+    "keywords": "and mid services midterm virtual vss it333 systems 2023 fall mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT333_VSS_Fall_2023_Mid.webp"
     ]
   },
   {
     "title": "IT335 - PDC Fall 2023 Final DrUmarShoaib",
-    "keywords": "2023 parallel computer computing fall finals miss sir terminal and drumarshoaib it335 mam pdc final distributed",
+    "keywords": "and computer drumarshoaib sir parallel terminal it335 pdc distributed mam computing final 2023 fall miss finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT335_PDC_Fall_2023_Final-DrUmarShoaib.webp"
     ]
   },
   {
     "title": "IT335 - PDC Fall 2023 Mid",
-    "keywords": "2023 parallel computer mid fall computing mids and midterm it335 pdc distributed",
+    "keywords": "and mid computer midterm parallel it335 pdc distributed computing 2023 fall mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT335_PDC_Fall_2023_Mid.webp"
     ]
   },
   {
     "title": "IT364 - WT Fall 2022 Final",
-    "keywords": "finals it364 wt fall terminal technologies web final 2022",
+    "keywords": "it364 wt web terminal final 2022 fall finals technologies",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT364_WT_Fall_2022_Final.webp"
     ]
   },
   {
     "title": "IT372-425 - DBAM Spring 2024 Mid",
-    "keywords": "2024 mid dbam 425 database management and midterm it372-425 administration spring it372 mids",
+    "keywords": "and mid it372 midterm administration database management 425 spring it372-425 dbam 2024 mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT372-425_DBAM_Spring_2024_Mid.webp"
     ]
   },
   {
     "title": "IT372 - ADMINM Spring 2024 Final",
-    "keywords": "2024 finals management terminal and administration spring adminm it372 final",
+    "keywords": "adminm and it372 administration management terminal spring 2024 final finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT372_ADMINM_Spring_2024_Final.webp"
     ]
   },
   {
     "title": "IT372 - DBAM Spring 2023 Final E",
-    "keywords": "2023 finals dbam database management terminal self-support and administration spring it372 final replica evening",
+    "keywords": "and it372 evening administration database management terminal spring replica self-support dbam final 2023 finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT372_DBAM_Spring_2023_Final-E.webp"
     ]
   },
   {
     "title": "IT372 - DBAM Spring 2023 Final",
-    "keywords": "2023 finals dbam database management terminal and administration spring it372 final",
+    "keywords": "and it372 administration database management terminal spring dbam final 2023 finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT372_DBAM_Spring_2023_Final.webp"
     ]
   },
   {
     "title": "IT372 - DBAM Spring 2024 Mid E",
-    "keywords": "2024 mid dbam database management self-support and midterm administration evening spring it372 replica mids",
+    "keywords": "and mid it372 midterm evening administration database management replica spring self-support 2024 dbam mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT372_DBAM_Spring_2024_Mid-E.webp"
     ]
   },
   {
     "title": "IT372 - DBAM Spring 2024 Mid",
-    "keywords": "2024 mid dbam database management and midterm administration spring it372 mids",
+    "keywords": "and mid it372 midterm administration database management spring 2024 dbam mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT372_DBAM_Spring_2024_Mid.webp"
     ]
   },
   {
     "title": "IT372 - DBA Spring 2024 Mid",
-    "keywords": "2024 mid dba midterm spring it372 mids",
+    "keywords": "mid it372 midterm dba spring 2024 mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT372_DBA_Spring_2024_Mid.webp"
     ]
   },
   {
     "title": "IT381-413 - SNA Spring 2023 Mid",
-    "keywords": "2023 it381 it381-413 mid 413 sna and midterm administration network spring system mids",
+    "keywords": "sna 413 mid and network midterm it381-413 administration spring system 2023 mids it381",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT381-413_SNA_Spring_2023_Mid.webp"
     ]
   },
   {
     "title": "IT381-413 - SNA Spring 2024 Mid",
-    "keywords": "it381 it381-413 2024 mid 413 sna and midterm administration network spring system mids",
+    "keywords": "sna 413 mid and network midterm it381-413 administration spring system 2024 mids it381",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT381-413_SNA_Spring_2024_Mid.webp"
     ]
   },
   {
     "title": "IT381-IT413 - SNA Spring 2023 Mid",
-    "keywords": "2023 it381 it381-it413 mid sna and it413 midterm administration network spring system mids",
+    "keywords": "sna mid and network midterm it413 administration spring system it381-it413 2023 mids it381",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT381-IT413_SNA_Spring_2023_Mid.webp"
     ]
   },
   {
     "title": "IT381 - SNA Spring 2023 Mid Saima",
-    "keywords": "2023 it381 mid miss sir sna and midterm administration network saima mam spring system mids",
+    "keywords": "sna mid and network midterm sir administration spring system mam 2023 saima mids miss it381",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT381_SNA_Spring_2023_Mid-Saima.webp"
     ]
   },
   {
     "title": "IT381 - SNA Spring 2024 Mid",
-    "keywords": "it381 2024 mid sna and midterm administration network spring system mids",
+    "keywords": "sna mid and network midterm administration spring system 2024 mids it381",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT381_SNA_Spring_2024_Mid.webp"
     ]
   },
   {
     "title": "IT382 - SNALAB Spring 2024 Final",
-    "keywords": "2024 snalab finals it382 terminal spring final",
+    "keywords": "snalab terminal spring it382 2024 final finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT382_SNALAB_Spring_2024_Final.webp"
     ]
   },
   {
     "title": "IT407-CS407 - MAD Spring 2024 Mid",
-    "keywords": "2024 application it407-cs407 mid it407 mad mobile development midterm cs407 spring mids",
+    "keywords": "cs407 mid midterm development it407-cs407 spring mobile 2024 it407 mad mids application",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT407-CS407_MAD_Spring_2024_Mid.webp"
     ]
   },
   {
     "title": "IT407 - MAD Spring 2019 Final",
-    "keywords": "application finals it407 mad mobile development terminal 2019 spring final",
+    "keywords": "development terminal spring mobile application mad it407 final 2019 finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT407_MAD_Spring_2019_Final.webp"
     ]
   },
   {
     "title": "IT407 - MAD Spring 2022 Final",
-    "keywords": "application finals it407 mad mobile development terminal spring final 2022",
+    "keywords": "development terminal spring mobile mad it407 final 2022 application finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT407_MAD_Spring_2022_Final.webp"
     ]
   },
   {
     "title": "IT407 - MAD Spring 2022 Mid",
-    "keywords": "application mid mids it407 mad mobile development midterm spring 2022",
+    "keywords": "mid midterm development spring mobile mad it407 2022 mids application",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT407_MAD_Spring_2022_Mid.webp"
     ]
   },
   {
     "title": "IT407 - MAD Spring 2023 Final",
-    "keywords": "2023 application finals it407 mad mobile development terminal spring final",
+    "keywords": "development terminal spring mobile mad it407 final 2023 application finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT407_MAD_Spring_2023_Final.webp"
     ]
   },
   {
     "title": "IT407 - MAD Spring 2023 Mid",
-    "keywords": "2023 application mid it407 mad mobile development midterm spring mids",
+    "keywords": "mid midterm development spring mobile mad it407 2023 mids application",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT407_MAD_Spring_2023_Mid.webp"
     ]
   },
   {
     "title": "IT407 - MAD Spring 2024 Final",
-    "keywords": "2024 application finals it407 mad mobile development terminal spring final",
+    "keywords": "development terminal spring mobile 2024 mad it407 final application finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT407_MAD_Spring_2024_Final.webp"
     ]
   },
   {
     "title": "IT417 - MS Fall 2023 Final",
-    "keywords": "2023 finals fall terminal and modeling simulation it417 final ms",
+    "keywords": "and simulation modeling terminal ms it417 final 2023 fall finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT417_MS_Fall_2023_Final.webp"
     ]
   },
   {
     "title": "IT418 - OR Fall 2023 Final M MaamHudaGull",
-    "keywords": "2023 finals maamhudagull fall miss sir regular terminal research or morning mam final it418 operation",
+    "keywords": "it418 or research morning regular sir terminal maamhudagull operation mam final 2023 fall miss finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT418_OR_Fall_2023_Final-M-MaamHudaGull.webp"
     ]
   },
   {
     "title": "IT426 - ITPM Fall 2023 Mid",
-    "keywords": "2023 project mid fall management midterm it itpm it426 mids",
+    "keywords": "it mid midterm itpm management project 2023 fall it426 mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT426_ITPM_Fall_2023_Mid_pg1.webp",
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT426_ITPM_Fall_2023_Mid_pg2.webp"
@@ -539,49 +553,49 @@
   },
   {
     "title": "IT426 - PP Spring 2024 Mid",
-    "keywords": "2024 mid midterm professional pp it426 practices spring mids",
+    "keywords": "mid midterm spring practices 2024 professional pp mids it426",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT426_PP_Spring_2024_Mid.webp"
     ]
   },
   {
     "title": "IT427 - CS Fall 2023 Mid",
-    "keywords": "2023 mid fall midterm cyber security it427 cs mids",
+    "keywords": "mid security midterm it427 cs cyber 2023 fall mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT427_CS_Fall_2023_Mid.webp"
     ]
   },
   {
     "title": "IT444 - DW Fall 2023 Final",
-    "keywords": "2023 finals fall warehousing terminal it444 dw final data",
+    "keywords": "dw terminal data it444 warehousing final 2023 fall finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT444_DW_Fall_2023_Final.webp"
     ]
   },
   {
     "title": "IT446 - DM Fall 2023 Mid UsmanZia",
-    "keywords": "2023 mid fall dm miss sir midterm usmanzia mam it446 data mining mids",
+    "keywords": "mining mid midterm it446 dm sir data usmanzia mam 2023 fall miss mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/IT446_DM_Fall_2023_Mid-UsmanZia.webp"
     ]
   },
   {
     "title": "MA210 - LA Spring 2023 Mid",
-    "keywords": "2023 ma210 mid la linear midterm algebra math spring mids",
+    "keywords": "mid la linear midterm ma210 math algebra spring 2023 mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/IT/MA210_LA_Spring_2023_Mid.webp"
     ]
   },
   {
     "title": "CS102-IT104 - PF Fall 2023 Mid",
-    "keywords": "2023 mid fall fundamentals midterm fundamental cs102-it104 programming cs102 pf it104 mids",
+    "keywords": "fundamentals mid cs102-it104 it104 fundamental midterm mids pf 2023 programming fall cs102",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS102-IT104_PF_Fall_2023_Mid.webp"
     ]
   },
   {
     "title": "CS102 - PF Fall 2023 Final",
-    "keywords": "2023 finals fundamentals fall terminal fundamental programming cs102 pf final",
+    "keywords": "fundamentals fundamental terminal pf final 2023 programming fall finals cs102",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS102_PF_Fall_2023_Final_pg1.webp",
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS102_PF_Fall_2023_Final_pg2.webp"
@@ -589,21 +603,21 @@
   },
   {
     "title": "CS102 - PF Fall 2023 Mid Ehtisham",
-    "keywords": "2023 mid fall fundamentals miss sir midterm fundamental programming cs102 ehtisham pf mam mids",
+    "keywords": "fundamentals mid fundamental midterm sir mids pf mam 2023 programming fall miss cs102 ehtisham",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS102_PF_Fall_2023_Mid-Ehtisham.webp"
     ]
   },
   {
     "title": "CS102 - PF Fall 2024 Mid",
-    "keywords": "2024 mid fall fundamentals midterm fundamental programming cs102 pf mids",
+    "keywords": "fundamentals mid fundamental midterm mids pf 2024 programming fall cs102",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS102_PF_Fall_2024_Mid.webp"
     ]
   },
   {
     "title": "CS103-106 - OOP Spring 2022 Final",
-    "keywords": "cs103-106 finals object miss sir terminal zafarkhatak programming spring oop 106 mam final oriented cs103 2022",
+    "keywords": "oop oriented sir terminal zafarkhatak spring mam final 2022 programming 106 miss cs103 finals cs103-106 object",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS103-106_OOP_Spring_2022_Final_pg1-ZafarKhatak.webp",
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS103-106_OOP_Spring_2022_Final_pg2-ZafarKhatak.webp"
@@ -611,7 +625,7 @@
   },
   {
     "title": "CS103 - APL Fall 2022 Final",
-    "keywords": "finals fall terminal language apl programming advanced final cs103 2022",
+    "keywords": "language programming terminal fall final 2022 advanced apl cs103 finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS103_APL_Fall_2022_Final_pg1.webp",
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS103_APL_Fall_2022_Final_pg2.webp"
@@ -619,14 +633,14 @@
   },
   {
     "title": "CS103 - OOP Fall 2024 Mid E Usman",
-    "keywords": "2024 mid fall object replica miss sir self-support midterm programming evening oop mam usman oriented cs103 mids",
+    "keywords": "mid oop usman oriented midterm evening sir replica self-support 2024 mam programming fall miss cs103 mids object",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS103_OOP_Fall_2024_Mid-E-Usman.webp"
     ]
   },
   {
     "title": "CS103 - OOP Spring 2023 Final",
-    "keywords": "2023 finals object terminal programming oop spring final oriented cs103",
+    "keywords": "oop oriented terminal spring final 2023 programming cs103 finals object",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS103_OOP_Spring_2023_Final_pg1.webp",
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS103_OOP_Spring_2023_Final_pg2.webp"
@@ -634,56 +648,56 @@
   },
   {
     "title": "CS103 - OOP Spring 2024 Final DrUsman",
-    "keywords": "2024 finals drusman object miss sir terminal programming mam oop spring final oriented cs103",
+    "keywords": "oop oriented sir terminal spring drusman 2024 mam final programming miss cs103 finals object",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS103_OOP_Spring_2024_Final-DrUsman.webp"
     ]
   },
   {
     "title": "CS103 - OOP Spring 2024 Final Usman",
-    "keywords": "2024 finals object miss sir terminal programming mam oop spring usman final oriented cs103",
+    "keywords": "oop usman oriented sir terminal spring 2024 mam final programming miss cs103 finals object",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS103_OOP_Spring_2024_Final-Usman.webp"
     ]
   },
   {
     "title": "CS103 - OOP Spring 2024 Final",
-    "keywords": "2024 finals object terminal programming oop spring final oriented cs103",
+    "keywords": "oop oriented terminal spring 2024 final programming cs103 finals object",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS103_OOP_Spring_2024_Final.webp"
     ]
   },
   {
     "title": "CS103 - OOP Spring 2024 Mid E AbdulRehman",
-    "keywords": "2024 mid object replica miss sir self-support midterm programming evening oop spring mam oriented cs103 abdulrehman mids",
+    "keywords": "abdulrehman mid oop oriented midterm evening sir replica spring self-support 2024 mam programming mids miss cs103 object",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS103_OOP_Spring_2024_Mid-E-AbdulRehman.webp"
     ]
   },
   {
     "title": "CS103 - OOP Spring 2024 Mid EhtishamRasheed",
-    "keywords": "2024 mid object miss sir midterm ehtishamrasheed programming mam oop spring oriented cs103 mids",
+    "keywords": "mid oop ehtishamrasheed oriented midterm sir spring 2024 mam programming mids miss cs103 object",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS103_OOP_Spring_2024_Mid-EhtishamRasheed.webp"
     ]
   },
   {
     "title": "CS103 - OOP Spring 2025 Mid M",
-    "keywords": "mid object regular midterm 2025 morning programming oop spring oriented cs103 mids",
+    "keywords": "mid oop 2025 oriented midterm morning regular spring programming mids cs103 object",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS103_OOP_Spring_2025_Mid-M.webp"
     ]
   },
   {
     "title": "CS151-154 - DLD Spring 2024 Mid Hina",
-    "keywords": "2024 logic digital mid hina miss cs151 sir 154 midterm cs151-154 dld mam spring design mids",
+    "keywords": "154 mid dld logic midterm sir cs151 cs151-154 hina spring digital 2024 design mam mids miss",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS151-154_DLD_Spring_2024_Mid-Hina.webp"
     ]
   },
   {
     "title": "CS151 - DLD Spring 2021 Final",
-    "keywords": "logic finals digital cs151 terminal dld 2021 spring final design",
+    "keywords": "dld logic 2021 cs151 terminal spring digital design final finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS151_DLD_Spring_2021_Final_pg1.webp",
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS151_DLD_Spring_2021_Final_pg2.webp",
@@ -692,49 +706,49 @@
   },
   {
     "title": "CS151 - DLD Spring 2024 Final",
-    "keywords": "2024 logic digital finals cs151 terminal dld spring final design",
+    "keywords": "dld logic cs151 terminal spring digital 2024 design final finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS151_DLD_Spring_2024_Final.webp"
     ]
   },
   {
     "title": "CS151 - DLD Spring 2024 Mid Hina",
-    "keywords": "2024 logic digital mid hina miss cs151 sir midterm dld mam spring design mids",
+    "keywords": "mid dld logic midterm sir cs151 hina spring digital 2024 design mam mids miss",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS151_DLD_Spring_2024_Mid-Hina.webp"
     ]
   },
   {
     "title": "CS151 - DLD Spring 2024 Mid MandiBahuddin",
-    "keywords": "2024 logic digital mid miss sir cs151 midterm mandibahuddin dld mam spring design mids",
+    "keywords": "mid dld logic midterm sir cs151 spring digital 2024 design mam mids miss mandibahuddin",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS151_DLD_Spring_2024_Mid-MandiBahuddin.webp"
     ]
   },
   {
     "title": "CS151 - DLD Spring 2025 Final",
-    "keywords": "logic finals digital cs151 terminal 2025 dld spring final design",
+    "keywords": "2025 dld logic cs151 terminal spring digital design final finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS151_DLD_Spring_2025_Final.webp"
     ]
   },
   {
     "title": "CS154-151-152 - DLD Spring 2020 Final",
-    "keywords": "151 logic digital finals terminal cs154-151-152 cs154 dld spring design final 152 2020",
+    "keywords": "151 dld logic cs154 2020 152 terminal spring cs154-151-152 digital design final finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS154-151-152_DLD_Spring_2020_Final.webp"
     ]
   },
   {
     "title": "CS154 - DLD Spring 2024 Final",
-    "keywords": "2024 logic digital finals terminal cs154 dld spring final design",
+    "keywords": "dld logic cs154 terminal spring digital 2024 design final finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS154_DLD_Spring_2024_Final.webp"
     ]
   },
   {
     "title": "CS204-CS209 - DS Fall 2020 Mid",
-    "keywords": "cs204-cs209 mid fall mids ds midterm cs209 structures cs204 data discrete 2020",
+    "keywords": "ds mid cs209 midterm structures 2020 discrete data cs204-cs209 cs204 fall mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS204-CS209_DS_Fall_2020_Mid_pg1.webp",
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS204-CS209_DS_Fall_2020_Mid_pg2.webp"
@@ -742,35 +756,35 @@
   },
   {
     "title": "CS205 - OOP Spring 2024 Mid M",
-    "keywords": "2024 mid cs205 object regular midterm morning programming oop spring oriented mids",
+    "keywords": "mid oop oriented midterm morning regular spring cs205 2024 programming mids object",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS205_OOP_Spring_2024_Mid-M.webp"
     ]
   },
   {
     "title": "CS209-203 - DSA Fall 2021 Final",
-    "keywords": "203 finals fall cs209-203 terminal and algorithm cs209 structures 2021 final data dsa",
+    "keywords": "and cs209 2021 structures cs209-203 dsa data terminal 203 algorithm final fall finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS209-203_DSA_Fall_2021_Final.webp"
     ]
   },
   {
     "title": "CS209-204 - DSA Fall 2022 Final DrTouqeer",
-    "keywords": "finals miss fall sir cs209-204 terminal and algorithm 2022 cs209 structures mam drtouqeer final data dsa 204",
+    "keywords": "and 204 cs209 structures drtouqeer sir terminal dsa data cs209-204 algorithm mam final 2022 fall miss finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS209-204_DSA_Fall_2022_Final-DrTouqeer.webp"
     ]
   },
   {
     "title": "CS209 - DSA Fall 2023 Final DrEhistam",
-    "keywords": "2023 finals miss fall sir terminal and algorithm cs209 structures mam drehistam final data dsa",
+    "keywords": "and cs209 structures sir terminal dsa data drehistam mam algorithm final 2023 fall miss finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS209_DSA_Fall_2023_Final-DrEhistam.webp"
     ]
   },
   {
     "title": "CS210 - OS Spring 2023 Final",
-    "keywords": "2023 finals miss sir ammarah os terminal operating cs210 systems mam spring final",
+    "keywords": "ammarah sir terminal spring os cs210 operating systems mam final 2023 miss finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS210_OS_Spring_2023_Final_pg1-Ammarah.webp",
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS210_OS_Spring_2023_Final_pg2-Ammarah.webp"
@@ -778,42 +792,42 @@
   },
   {
     "title": "CS210 - OS Spring 2024 Final",
-    "keywords": "2024 finals os terminal operating cs210 systems spring final",
+    "keywords": "terminal spring os cs210 2024 systems final operating finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS210_OS_Spring_2024_Final.webp"
     ]
   },
   {
     "title": "CS210 - OS Spring 2024 Mid ZafarKhatak",
-    "keywords": "2024 mid miss sir os midterm operating zafarkhatak cs210 systems mam spring mids",
+    "keywords": "mid midterm sir zafarkhatak spring os cs210 2024 systems mam operating mids miss",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS210_OS_Spring_2024_Mid-ZafarKhatak.webp"
     ]
   },
   {
     "title": "CS212 - CN Fall 2023 Mid E",
-    "keywords": "2023 computer mid fall cs212 replica cn self-support midterm evening networks network mids",
+    "keywords": "computer mid cn network midterm evening replica self-support networks 2023 fall cs212 mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS212_CN_Fall_2023_Mid-E.webp"
     ]
   },
   {
     "title": "CS221-224 - CN Fall 2024 Mid",
-    "keywords": "2024 cs221 computer mid fall 224 cn midterm networks cs221-224 network mids",
+    "keywords": "224 mid cn computer network midterm cs221 networks 2024 cs221-224 fall mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS221-224_CN_Fall_2024_Mid.webp"
     ]
   },
   {
     "title": "CS221 - CN Fall 2025 Mid",
-    "keywords": "cs221 computer mid fall cn midterm 2025 networks network mids",
+    "keywords": "computer mid cn network 2025 midterm cs221 networks fall mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS221_CN_Fall_2025_Mid.webp"
     ]
   },
   {
     "title": "CS241-243 - DBMS Spring 2020 Final",
-    "keywords": "finals database management dbms terminal 243 cs241 spring final system 2020 cs241-243",
+    "keywords": "cs241-243 2020 management database terminal spring finals system dbms final cs241 243",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS241-243_DBMS_Spring_2020_Final_pg1.webp",
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS241-243_DBMS_Spring_2020_Final_pg2.webp"
@@ -821,14 +835,14 @@
   },
   {
     "title": "CS241 - DBS Spring 2023 Final",
-    "keywords": "2023 finals dbs terminal cs241 spring final",
+    "keywords": "dbs terminal spring final 2023 cs241 finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS241_DBS_Spring_2023_Final.webp"
     ]
   },
   {
     "title": "CS241 - DBS Spring 2025 Final",
-    "keywords": "finals dbs terminal 2025 cs241 spring final",
+    "keywords": "2025 dbs terminal spring final cs241 finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS241_DBS_Spring_2025_Final_pg1.webp",
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS241_DBS_Spring_2025_Final_pg2.webp"
@@ -836,42 +850,42 @@
   },
   {
     "title": "CS241 - DBS Spring 2025 Mid",
-    "keywords": "mid dbs midterm 2025 cs241 spring mids",
+    "keywords": "mid 2025 midterm dbs spring cs241 mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS241_DBS_Spring_2025_Mid.webp"
     ]
   },
   {
     "title": "CS241 - DB Spring 2023 Final",
-    "keywords": "2023 finals database terminal db systems cs241 spring final",
+    "keywords": "terminal database spring systems db final 2023 cs241 finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS241_DB_Spring_2023_Final.webp"
     ]
   },
   {
     "title": "CS255 - COAL Fall 2022 Final SirJabbar",
-    "keywords": "computer finals miss fall sir organization terminal and coal assembly language mam cs255 final sirjabbar 2022",
+    "keywords": "computer cs255 and language sirjabbar sir organization assembly terminal coal mam final 2022 fall miss finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS255_COAL_Fall_2022_Final-SirJabbar.webp"
     ]
   },
   {
     "title": "CS255 - COAL Fall 2024 Final",
-    "keywords": "2024 computer finals fall organization terminal and coal assembly language cs255 final",
+    "keywords": "computer cs255 and language organization assembly terminal coal 2024 final fall finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS255_COAL_Fall_2024_Final.webp"
     ]
   },
   {
     "title": "CS255 - COAL Spring 2024 Final",
-    "keywords": "2024 computer finals organization terminal and coal assembly language cs255 spring final",
+    "keywords": "computer cs255 and language organization assembly terminal spring coal 2024 final finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS255_COAL_Spring_2024_Final.webp"
     ]
   },
   {
     "title": "CS261-IT121 - DS Spring 2021 Mid",
-    "keywords": "mid ds midterm it121 structures cs261 2021 spring cs261-it121 data discrete mids",
+    "keywords": "ds mid cs261-it121 midterm 2021 cs261 structures discrete data spring it121 mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS261-IT121_DS_Spring_2021_Mid_pg1.webp",
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS261-IT121_DS_Spring_2021_Mid_pg2.webp"
@@ -879,7 +893,7 @@
   },
   {
     "title": "CS261 - DS Fall 2020 Mid",
-    "keywords": "mid fall mids ds midterm structures cs261 data discrete 2020",
+    "keywords": "ds mid midterm cs261 structures 2020 discrete data fall mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS261_DS_Fall_2020_Mid_pg1.webp",
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS261_DS_Fall_2020_Mid_pg2.webp",
@@ -888,7 +902,7 @@
   },
   {
     "title": "CS261 - DS Fall 2021 Final",
-    "keywords": "finals fall ds terminal structures cs261 2021 final data discrete",
+    "keywords": "ds 2021 cs261 structures discrete terminal data final fall finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS261_DS_Fall_2021_Final_pg1.webp",
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS261_DS_Fall_2021_Final_pg2.webp",
@@ -898,7 +912,7 @@
   },
   {
     "title": "CS261 - DS Spring 2024 Final",
-    "keywords": "2024 finals ds terminal structures cs261 spring final data discrete",
+    "keywords": "ds cs261 structures discrete terminal data spring 2024 final finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS261_DS_Spring_2024_Final.webp",
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS261_DS_Spring_2024_Final_pg1.webp"
@@ -906,7 +920,7 @@
   },
   {
     "title": "CS303 - APL Fall 2023 Final",
-    "keywords": "2023 finals fall cs303 terminal language programming advanced final apl",
+    "keywords": "language programming terminal fall final 2023 advanced apl cs303 finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS303_APL_Fall_2023_Final_pg1.webp",
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS303_APL_Fall_2023_Final_pg2.webp"
@@ -914,7 +928,7 @@
   },
   {
     "title": "CS303 - APT Fall 2022 Mid",
-    "keywords": "mid fall mids cs303 apt midterm techniques programming advanced 2022",
+    "keywords": "mid programming midterm techniques apt 2022 advanced fall cs303 mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS303_APT_Fall_2022_Mid_pg1.webp",
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS303_APT_Fall_2022_Mid_pg2.webp"
@@ -922,35 +936,35 @@
   },
   {
     "title": "CS303 - APT Fall 2024 Final",
-    "keywords": "2024 finals fall cs303 apt terminal techniques programming advanced final",
+    "keywords": "programming terminal techniques apt 2024 final advanced fall cs303 finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS303_APT_Fall_2024_Final.webp"
     ]
   },
   {
     "title": "CS303 - APT Fall 2024 Mid Awais",
-    "keywords": "2024 mid fall miss cs303 sir apt midterm techniques programming mam advanced awais mids",
+    "keywords": "mid programming midterm sir techniques apt 2024 mam awais advanced fall miss cs303 mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS303_APT_Fall_2024_Mid-Awais.webp"
     ]
   },
   {
     "title": "CS303 - APT Fall 2024 Mid",
-    "keywords": "2024 mid fall cs303 apt midterm techniques programming advanced mids",
+    "keywords": "mid programming midterm techniques apt 2024 advanced fall cs303 mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS303_APT_Fall_2024_Mid.webp"
     ]
   },
   {
     "title": "CS303 - APT Spring 2023 Mid",
-    "keywords": "2023 mid cs303 apt midterm techniques programming advanced spring mids",
+    "keywords": "mid programming midterm spring techniques apt 2023 advanced mids cs303",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS303_APT_Spring_2023_Mid.webp"
     ]
   },
   {
     "title": "CS305 - WST Fall 2020 Mid",
-    "keywords": "mid fall mids wst and technology midterm cs305 web system 2020",
+    "keywords": "and wst mid midterm web 2020 cs305 technology system fall mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS305_WST_Fall_2020_Mid_pg1.webp",
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS305_WST_Fall_2020_Mid_pg2.webp"
@@ -958,7 +972,7 @@
   },
   {
     "title": "CS305 - WST Fall 2022 Final",
-    "keywords": "finals fall terminal wst and technology cs305 web final system 2022",
+    "keywords": "and wst web terminal cs305 technology system final 2022 fall finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS305_WST_Fall_2022_Final_pg1.webp",
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS305_WST_Fall_2022_Final_pg2.webp"
@@ -966,14 +980,14 @@
   },
   {
     "title": "CS305 - WST Fall 2024 Final",
-    "keywords": "2024 finals fall terminal wst and technology cs305 web final system",
+    "keywords": "and wst web terminal cs305 technology system 2024 final fall finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS305_WST_Fall_2024_Final.webp"
     ]
   },
   {
     "title": "CS305 - WST Fall 2024 Mid",
-    "keywords": "2024 mid fall wst and technology midterm cs305 web system mids",
+    "keywords": "and wst mid midterm web cs305 technology system 2024 fall mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS305_WST_Fall_2024_Mid_pg1.webp",
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS305_WST_Fall_2024_Mid_pg2.webp"
@@ -981,56 +995,56 @@
   },
   {
     "title": "CS305 - WST Spring 2025 Final",
-    "keywords": "finals terminal wst and 2025 technology cs305 spring web final system",
+    "keywords": "and 2025 web terminal cs305 technology spring system final wst finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS305_WST_Spring_2025_Final.webp"
     ]
   },
   {
     "title": "CS305 - WST Spring 2025 Mid",
-    "keywords": "mid wst and 2025 technology cs305 midterm spring web system mids",
+    "keywords": "and mid 2025 midterm web cs305 technology spring system wst mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS305_WST_Spring_2025_Mid.webp"
     ]
   },
   {
     "title": "CS321 - SE Spring 2023 Final SirJabbar",
-    "keywords": "2023 finals miss se sirjabbar sir terminal software engineering mam spring final cs321",
+    "keywords": "sirjabbar miss sir terminal engineering spring se cs321 mam final 2023 software finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS321_SE_Spring_2023_Final-SirJabbar.webp"
     ]
   },
   {
     "title": "CS321 - SE Spring 2023 Final",
-    "keywords": "2023 finals se terminal software engineering spring final cs321",
+    "keywords": "terminal engineering spring se cs321 final 2023 software finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS321_SE_Spring_2023_Final.webp"
     ]
   },
   {
     "title": "CS321 - SE Spring 2023 Mid M",
-    "keywords": "2023 mid se regular midterm morning software engineering spring cs321 mids",
+    "keywords": "mid midterm morning regular engineering spring se cs321 2023 mids software",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS321_SE_Spring_2023_Mid-M.webp"
     ]
   },
   {
     "title": "CS321 - SE Spring 2024 Final",
-    "keywords": "2024 finals se terminal software engineering spring final cs321",
+    "keywords": "terminal spring se cs321 2024 final engineering software finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS321_SE_Spring_2024_Final.webp"
     ]
   },
   {
     "title": "CS321 - SE Spring 2024 Mid",
-    "keywords": "2024 mid se midterm software engineering spring cs321 mids",
+    "keywords": "mid midterm spring se cs321 2024 engineering mids software",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS321_SE_Spring_2024_Mid.webp"
     ]
   },
   {
     "title": "CS324 - IS Fall 2020 Final",
-    "keywords": "information finals fall is terminal cs324 security final 2020",
+    "keywords": "security is cs324 2020 terminal final fall finals information",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS324_IS_Fall_2020_Final_pg1.webp",
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS324_IS_Fall_2020_Final_pg2.webp",
@@ -1040,14 +1054,14 @@
   },
   {
     "title": "CS324 - IS Fall 2023 Final",
-    "keywords": "2023 finals fall is terminal cs324 security final information",
+    "keywords": "security is cs324 terminal final 2023 fall finals information",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS324_IS_Fall_2023_Final.webp"
     ]
   },
   {
     "title": "CS324 - IS Fall 2023 Mid",
-    "keywords": "2023 mid fall mids is midterm cs324 security information",
+    "keywords": "mid security is cs324 midterm 2023 fall mids information",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS324_IS_Fall_2023_Mid.webp",
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS324_IS_Fall_2023_Mid_pg1.webp",
@@ -1056,7 +1070,7 @@
   },
   {
     "title": "CS324 - IS Fall 2024 Final M",
-    "keywords": "2024 finals miss fall sir is terminal m_pg1 cs324 security mam final information",
+    "keywords": "security is cs324 sir terminal 2024 mam m_pg1 final fall miss finals information",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS324_IS_Fall_2024_Final-M_pg1.webp",
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS324_IS_Fall_2024_Final-M_pg2.webp",
@@ -1065,7 +1079,7 @@
   },
   {
     "title": "CS324 - IS Fall 2024 Final",
-    "keywords": "2024 finals fall is terminal cs324 security final information",
+    "keywords": "security is cs324 terminal 2024 final fall finals information",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS324_IS_Fall_2024_Final_pg1.webp",
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS324_IS_Fall_2024_Final_pg2.webp",
@@ -1074,63 +1088,63 @@
   },
   {
     "title": "CS324 - IS Fall 2024 Mid",
-    "keywords": "2024 mid fall mids is midterm cs324 security information",
+    "keywords": "mid security is cs324 midterm 2024 fall mids information",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS324_IS_Fall_2024_Mid.webp"
     ]
   },
   {
     "title": "CS324 - IS Spring 2024 Final",
-    "keywords": "2024 finals is terminal cs324 security spring final information",
+    "keywords": "security is cs324 terminal spring 2024 final finals information",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS324_IS_Spring_2024_Final.webp"
     ]
   },
   {
     "title": "CS324 - IS Spring 2024 Mid E",
-    "keywords": "2024 mid mids is self-support midterm cs324 security evening spring replica information",
+    "keywords": "mid security is cs324 midterm evening replica spring self-support 2024 mids information",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS324_IS_Spring_2024_Mid-E.webp"
     ]
   },
   {
     "title": "CS324 - IS Spring 2024 Mid M",
-    "keywords": "2024 mid mids is regular midterm morning cs324 security spring information",
+    "keywords": "mid security is cs324 midterm morning regular spring 2024 mids information",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS324_IS_Spring_2024_Mid-M.webp"
     ]
   },
   {
     "title": "CS324 - IS Spring 2024 Mid",
-    "keywords": "2024 mid mids is midterm cs324 security spring information",
+    "keywords": "mid security is cs324 midterm spring 2024 mids information",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS324_IS_Spring_2024_Mid.webp"
     ]
   },
   {
     "title": "CS329 - AI Fall 2022 Final NAB",
-    "keywords": "finals miss fall sir nab terminal intelligence mam ai final cs329 artificial 2022",
+    "keywords": "cs329 ai sir artificial terminal intelligence nab mam final 2022 fall miss finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS329_AI_Fall_2022_Final-NAB.webp"
     ]
   },
   {
     "title": "CS329 - AI Fall 2022 Final",
-    "keywords": "finals fall terminal intelligence ai final cs329 artificial 2022",
+    "keywords": "cs329 ai artificial terminal intelligence final 2022 fall finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS329_AI_Fall_2022_Final.webp"
     ]
   },
   {
     "title": "CS329 - AI Spring 2023 Final NAB",
-    "keywords": "2023 finals miss sir nab terminal intelligence mam spring ai final cs329 artificial",
+    "keywords": "cs329 ai sir artificial terminal spring mam nab final 2023 intelligence miss finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS329_AI_Spring_2023_Final-NAB.webp"
     ]
   },
   {
     "title": "CS331 - AI Spring 2020 Final",
-    "keywords": "finals terminal intelligence spring ai cs331 final artificial 2020",
+    "keywords": "ai 2020 artificial terminal spring cs331 final intelligence finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS331_AI_Spring_2020_Final_pg1.webp",
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS331_AI_Spring_2020_Final_pg2.webp",
@@ -1139,168 +1153,168 @@
   },
   {
     "title": "CS340 - SOA Spring 2024 Mid",
-    "keywords": "2024 soa mid architecture cs340 midterm spring service oriented mids",
+    "keywords": "mid cs340 oriented midterm architecture spring 2024 service mids soa",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS340_SOA_Spring_2024_Mid.webp"
     ]
   },
   {
     "title": "CS353 - CA Spring 2025 Mid",
-    "keywords": "ca computer mid architecture cs353 midterm 2025 spring mids",
+    "keywords": "computer mid 2025 midterm architecture spring cs353 mids ca",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS353_CA_Spring_2025_Mid.webp"
     ]
   },
   {
     "title": "CS361-IT361 - TAFL Spring 2023 Mid",
-    "keywords": "2023 cs361 languages cs361-it361 mid automata of tafl theory midterm & formal spring it361 mids",
+    "keywords": "theory mid languages midterm & cs361-it361 it361 of cs361 spring formal 2023 mids automata tafl",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS361-IT361_TAFL_Spring_2023_Mid.webp"
     ]
   },
   {
     "title": "CS361-IT361 - TOA&FL Spring 2023 Mid MissSalihaZahoor",
-    "keywords": "cs361 theory midterm mam 2023 and spring it361 mids cs361-it361 automata of toa&fl formal languages mid miss sir misssalihazahoor",
+    "keywords": "mam 2023 miss automata toa&fl sir of it361 spring misssalihazahoor theory and midterm cs361 languages mid cs361-it361 formal mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS361-IT361_TOA&FL_Spring_2023_Mid-MissSalihaZahoor.webp"
     ]
   },
   {
     "title": "CS361 - TOA&FL Spring 2024 Mid SirNajeeburRehman",
-    "keywords": "cs361 2024 languages mid miss sir automata of theory toa&fl and midterm sirnajeeburrehman formal mam spring mids",
+    "keywords": "theory mid and toa&fl languages midterm sir of cs361 spring sirnajeeburrehman 2024 formal mam mids miss automata",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS361_TOA&FL_Spring_2024_Mid-SirNajeeburRehman.webp"
     ]
   },
   {
     "title": "CS403 - AWD Spring 2024 Mid MissHina",
-    "keywords": "2024 mid misshina awd miss sir advance development midterm cs403 mam spring web mids",
+    "keywords": "mid misshina awd midterm web sir advance development cs403 spring 2024 mam mids miss",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS403_AWD_Spring_2024_Mid-MissHina.webp"
     ]
   },
   {
     "title": "CS407-IT407 - MAD Spring 2024 Final",
-    "keywords": "2024 application finals it407 mad cs407-it407 mobile development terminal cs407 spring final",
+    "keywords": "cs407 cs407-it407 development terminal spring mobile 2024 it407 mad final application finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS407-IT407_MAD_Spring_2024_Final.webp"
     ]
   },
   {
     "title": "CS408 - AWB Spring 2024 Mid",
-    "keywords": "cs408 2024 mid midterm awb spring mids",
+    "keywords": "mid midterm spring awb 2024 mids cs408",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS408_AWB_Spring_2024_Mid.webp"
     ]
   },
   {
     "title": "CS408 - AWD Spring 2024 Mid SirAbuBakar",
-    "keywords": "cs408 2024 mid sirabubakar awd miss sir advance development midterm mam spring web mids",
+    "keywords": "mid awd midterm web sir advance development sirabubakar spring 2024 mam mids miss cs408",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS408_AWD_Spring_2024_Mid-SirAbuBakar.webp"
     ]
   },
   {
     "title": "CS424 - PDC Fall 2024 Final",
-    "keywords": "2024 parallel computer computing fall finals terminal and pdc final cs424 distributed",
+    "keywords": "and computer terminal pdc 2024 distributed computing final parallel cs424 fall finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS424_PDC_Fall_2024_Final.webp"
     ]
   },
   {
     "title": "CS424 - PDC Fall 2024 Mid DrUmarShoaib",
-    "keywords": "2024 parallel computer mid fall computing mids miss sir and midterm drumarshoaib mam pdc cs424 distributed",
+    "keywords": "and mid computer midterm drumarshoaib sir pdc 2024 distributed computing mam parallel cs424 fall miss mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS424_PDC_Fall_2024_Mid-DrUmarShoaib.webp"
     ]
   },
   {
     "title": "CS438 - IDL Fall 2024 Final SirKhatak",
-    "keywords": "2024 finals miss fall sir cs438 terminal to deep sirkhatak intro learning mam final idl",
+    "keywords": "idl sir terminal intro finals learning sirkhatak 2024 mam to final fall miss cs438 deep",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS438_IDL_Fall_2024_Final-SirKhatak.webp"
     ]
   },
   {
     "title": "CS447 - ML Spring 2024 Mid SirNaveedAnwarButt",
-    "keywords": "2024 mid miss sirnaveedanwarbutt sir ml machine midterm cs447 mam learning spring mids",
+    "keywords": "mid midterm sir ml spring learning 2024 mam machine mids miss cs447 sirnaveedanwarbutt",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS447_ML_Spring_2024_Mid-SirNaveedAnwarButt.webp"
     ]
   },
   {
     "title": "CS447 - ML Spring 2024 Mid SirZafarKhatak",
-    "keywords": "2024 mid miss sir sirzafarkhatak ml machine midterm cs447 mam learning spring mids",
+    "keywords": "mid midterm sir ml spring learning 2024 mam machine sirzafarkhatak mids miss cs447",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS447_ML_Spring_2024_Mid-SirZafarKhatak.webp"
     ]
   },
   {
     "title": "CS447 - ML Spring 2024 Mid SirZahidIqbal",
-    "keywords": "2024 mid miss sir ml machine midterm sirzahidiqbal cs447 mam learning spring mids",
+    "keywords": "mid midterm sir ml sirzahidiqbal spring learning 2024 mam machine mids miss cs447",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS447_ML_Spring_2024_Mid-SirZahidIqbal.webp"
     ]
   },
   {
     "title": "CS447 - ML Spring 2024 Mid",
-    "keywords": "2024 mid ml machine midterm cs447 learning spring mids",
+    "keywords": "mid midterm ml spring learning 2024 machine mids cs447",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS447_ML_Spring_2024_Mid.webp"
     ]
   },
   {
     "title": "CS447 - ML Spring 2025 Mid",
-    "keywords": "mid ml machine midterm 2025 cs447 learning spring mids",
+    "keywords": "mid 2025 midterm ml spring learning machine mids cs447",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS447_ML_Spring_2025_Mid.webp"
     ]
   },
   {
     "title": "CS462 - CC Fall 2023 Mid",
-    "keywords": "2023 mid fall cc midterm cs462 construction compiler mids",
+    "keywords": "cc mid midterm construction compiler cs462 2023 fall mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS462_CC_Fall_2023_Mid.webp"
     ]
   },
   {
     "title": "CS462 - CC Fall 2024 Final MamSaliha",
-    "keywords": "2024 finals miss fall sir cc terminal mamsaliha cs462 construction mam final compiler",
+    "keywords": "cc sir mamsaliha terminal construction compiler cs462 2024 mam final fall miss finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS462_CC_Fall_2024_Final-MamSaliha.webp"
     ]
   },
   {
     "title": "CS462 - CC Fall 2024 Mid",
-    "keywords": "2024 mid fall cc midterm cs462 construction compiler mids",
+    "keywords": "cc mid midterm construction compiler cs462 2024 fall mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CS/CS462_CC_Fall_2024_Mid.webp"
     ]
   },
   {
     "title": "CHEM103 - OC Fall 2022 Final",
-    "keywords": "finals fall chemistry terminal oc chem103 final organic 2022",
+    "keywords": "organic terminal chem103 final 2022 fall oc finals chemistry",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CHEM/CHEM103_OC_Fall_2022_Final.webp"
     ]
   },
   {
     "title": "CHEM103 - OC Spring 2018 Final",
-    "keywords": "finals chemistry terminal oc chem103 spring final organic 2018",
+    "keywords": "organic 2018 terminal spring chem103 final oc finals chemistry",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CHEM/CHEM103_OC_Spring_2018_Final.webp"
     ]
   },
   {
     "title": "PHY117 - AP Fall 2024 Mid",
-    "keywords": "2024 physics mid fall applied midterm ap phy117 mids",
+    "keywords": "mid midterm physics phy117 2024 fall applied mids ap",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/PHY/PHY117_AP_Fall_2024_Mid.webp"
     ]
   },
   {
     "title": "ENG102 - ELS Spring 2021 Final",
-    "keywords": "finals english eng102 els terminal language skills 2021 spring final",
+    "keywords": "language 2021 terminal spring skills els final eng102 english finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/ENG/ENG102_ELS_Spring_2021_Final_pg1.webp",
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/ENG/ENG102_ELS_Spring_2021_Final_pg2.webp"
@@ -1308,210 +1322,210 @@
   },
   {
     "title": "ENG102 - ELS Spring 2022 Final",
-    "keywords": "finals english eng102 els terminal language skills spring final 2022",
+    "keywords": "language terminal spring skills els final 2022 eng102 english finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/ENG/ENG102_ELS_Spring_2022_Final.webp"
     ]
   },
   {
     "title": "ENG102 - ELS Spring 2023 Final M",
-    "keywords": "2023 finals english eng102 els terminal regular morning language skills spring final",
+    "keywords": "language morning regular terminal spring skills els final 2023 eng102 english finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/ENG/ENG102_ELS_Spring_2023_Final-M.webp"
     ]
   },
   {
     "title": "ENG201 - ATW Spring 2023 Final",
-    "keywords": "2023 academic finals final eng201 terminal and technical spring atw writing",
+    "keywords": "and atw technical terminal spring final 2023 academic eng201 writing finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/ENG/ENG201_ATW_Spring_2023_Final.webp"
     ]
   },
   {
     "title": "ENG310 - BTW Fall 2022 Final",
-    "keywords": "finals business fall btw terminal and technical final writing eng310 2022",
+    "keywords": "and eng310 technical terminal btw business final 2022 fall writing finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/ENG/ENG310_BTW_Fall_2022_Final.webp"
     ]
   },
   {
     "title": "ISL100 - ISL Fall 2021 Final",
-    "keywords": "finals final fall islamiat islamic terminal studies isl100 2021 isl",
+    "keywords": "2021 studies islamiat isl terminal islamic isl100 final fall finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/ISL/ISL100_ISL_Fall_2021_Final.webp"
     ]
   },
   {
     "title": "ISL100 - ISL Fall 2022 Final",
-    "keywords": "finals final fall islamiat islamic terminal studies isl100 isl 2022",
+    "keywords": "studies islamiat isl terminal islamic isl100 final 2022 fall finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/ISL/ISL100_ISL_Fall_2022_Final.webp"
     ]
   },
   {
     "title": "ISL100 - ISL Spring 2023 Final",
-    "keywords": "2023 finals final islamiat islamic terminal studies isl100 spring isl",
+    "keywords": "studies islamiat isl terminal spring islamic isl100 final 2023 finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/ISL/ISL100_ISL_Spring_2023_Final.webp"
     ]
   },
   {
     "title": "GE105 - FE Fall 2024 Final",
-    "keywords": "2024 finals english fall ge105 terminal fe functional final",
+    "keywords": "fe functional terminal ge105 2024 final fall english finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/GE/GE105_FE_Fall_2024_Final.webp"
     ]
   },
   {
     "title": "GE106 - PS Spring 2025 Mid E",
-    "keywords": "pak mid ge106 pakistan midterm self-support 2025 studies evening spring ps replica mids",
+    "keywords": "mid pak 2025 midterm studies evening ge106 replica spring ps self-support mids pakistan",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/GE/GE106_PS_Spring_2025_Mid-E.webp"
     ]
   },
   {
     "title": "GE106 - PS Spring 2025 Mid M",
-    "keywords": "pak mid ge106 regular pakistan midterm 2025 studies morning spring ps mids",
+    "keywords": "mid pak 2025 midterm studies morning ge106 regular spring ps mids pakistan",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/GE/GE106_PS_Spring_2025_Mid-M.webp"
     ]
   },
   {
     "title": "GE201 - ISL Spring 2024 Final",
-    "keywords": "2024 finals final ge201 islamiat islamic terminal studies spring isl",
+    "keywords": "studies islamiat isl terminal spring islamic ge201 2024 final finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/GE/GE201_ISL_Spring_2024_Final.webp"
     ]
   },
   {
     "title": "GE202 - ICP Fall 2023 Final",
-    "keywords": "2023 finals fall ge202 icp of pakistan and terminal constitution ideology final",
+    "keywords": "and constitution ideology of terminal icp finals ge202 final 2023 fall pakistan",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/GE/GE202_ICP_Fall_2023_Final.webp"
     ]
   },
   {
     "title": "GE203-CS164 - ICT Fall 2023 Mid",
-    "keywords": "2023 information mid fall mids ge203 of midterm ge203-cs164 communication ict application technologies cs164",
+    "keywords": "mid midterm ict of communication technologies cs164 application information 2023 fall ge203 mids ge203-cs164",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/GE/GE203-CS164_ICT_Fall_2023_Mid.webp"
     ]
   },
   {
     "title": "GE203 - ICT Fall 2024 Final",
-    "keywords": "2024 finals fall ge203 of terminal technologies communication ict application final information",
+    "keywords": "ict of terminal communication technologies application 2024 final fall ge203 finals information",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/GE/GE203_ICT_Fall_2024_Final.webp"
     ]
   },
   {
     "title": "GE203 - ICT Fall 2024 Mid",
-    "keywords": "2024 mid fall mids ge203 of midterm communication ict application technologies information",
+    "keywords": "mid midterm ict of communication technologies application 2024 fall ge203 mids information",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/GE/GE203_ICT_Fall_2024_Mid.webp"
     ]
   },
   {
     "title": "GE205 - EW Spring 2024 Final E",
-    "keywords": "2024 finals ge205 expository terminal self-support evening spring final replica writing ew",
+    "keywords": "evening terminal ew replica spring self-support expository 2024 final ge205 writing finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/GE/GE205_EW_Spring_2024_Final-E.webp"
     ]
   },
   {
     "title": "GE205 - EW Spring 2024 Mid",
-    "keywords": "2024 mid ge205 mids expository midterm spring writing ew",
+    "keywords": "mid midterm ew spring expository 2024 writing mids ge205",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/GE/GE205_EW_Spring_2024_Mid.webp"
     ]
   },
   {
     "title": "GE207 - CCE Spring 2024 Mid",
-    "keywords": "ge207 cce 2024 civic mid community and midterm engagement spring mids",
+    "keywords": "and mid midterm engagement spring 2024 civic ge207 mids cce community",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/GE/GE207_CCE_Spring_2024_Mid.webp"
     ]
   },
   {
     "title": "GESE104 - CAG Fall 2024 Final",
-    "keywords": "2024 finals fall cag terminal gese104 and calculus geometry analytical final",
+    "keywords": "calculus and gese104 terminal cag geometry 2024 analytical final fall finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/GE/GESE104_CAG_Fall_2024_Final.webp"
     ]
   },
   {
     "title": "PE425 - RMS Spring 2024 Mid",
-    "keywords": "2024 mid rms sports of midterm pe425 in spring media role mids",
+    "keywords": "mid midterm rms of media spring in sports 2024 role pe425 mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/GE/PE425_RMS_Spring_2024_Mid.webp"
     ]
   },
   {
     "title": "STAT101 - STAT Fall 2023 Final",
-    "keywords": "2023 statistics finals fall terminal to introduction stat stat101 final",
+    "keywords": "stat terminal introduction to final 2023 fall statistics finals stat101",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/GE/STAT101_STAT_Fall_2023_Final.webp"
     ]
   },
   {
     "title": "STAT205 - PAS Fall 2025 Mid",
-    "keywords": "statistics mid fall pas probability stat205 and midterm 2025 mids",
+    "keywords": "and mid 2025 midterm pas stat205 fall probability statistics mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/GE/STAT205_PAS_Fall_2025_Mid.webp"
     ]
   },
   {
     "title": "COMM102 - FFA Fall 2022 Mid",
-    "keywords": "ffa mid fall fundamentals comm102 mids accounting midterm financial 2022",
+    "keywords": "fundamentals mid accounting midterm financial ffa 2022 fall comm102 mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/MGT/COMM102_FFA_Fall_2022_Mid.webp"
     ]
   },
   {
     "title": "ECO101 - ECO Fall 2022 Final",
-    "keywords": "eco finals fall eco101 terminal economics final 2022",
+    "keywords": "eco economics terminal eco101 final 2022 fall finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/MGT/ECO101_ECO_Fall_2022_Final.webp"
     ]
   },
   {
     "title": "ECO101 - ECO Fall 2023 Mid",
-    "keywords": "eco 2023 mid fall eco101 economics midterm mids",
+    "keywords": "eco mid economics midterm eco101 2023 fall mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/MGT/ECO101_ECO_Fall_2023_Mid.webp"
     ]
   },
   {
     "title": "ECO101 - ECO Fall 2024 Mid",
-    "keywords": "eco 2024 mid fall eco101 economics midterm mids",
+    "keywords": "eco mid economics midterm eco101 2024 fall mids",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/MGT/ECO101_ECO_Fall_2024_Mid.webp"
     ]
   },
   {
     "title": "MGT205 - FA Spring 2023 Final",
-    "keywords": "2023 finals accounting terminal mgt205 financial fa spring final",
+    "keywords": "accounting financial mgt205 fa terminal spring final 2023 finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/MGT/MGT205_FA_Spring_2023_Final.webp"
     ]
   },
   {
     "title": "MGT206 - POM Fall 2024 Final",
-    "keywords": "2024 finals fall mgt206 pom of marketing terminal final principles",
+    "keywords": "pom of terminal mgt206 2024 principles final fall marketing finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/MGT/MGT206_POM_Fall_2024_Final.webp"
     ]
   },
   {
     "title": "MGT303 - ENT  Spring 2024 Mid SirHassanMujtiba",
-    "keywords": "2024 mid miss mgt303 sir midterm ent sirhassanmujtiba mam spring entrepreneurship mids",
+    "keywords": "mid midterm sir mgt303 spring entrepreneurship 2024 mam ent mids miss sirhassanmujtiba",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/MGT/MGT303_ENT_ Spring_2024_Mid-SirHassanMujtiba.webp"
     ]
   },
   {
     "title": "MGT303 - ENT Fall 2020 Final",
-    "keywords": "finals fall mgt303 terminal ent final entrepreneurship 2020",
+    "keywords": "2020 terminal mgt303 entrepreneurship final ent fall finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/MGT/MGT303_ENT_Fall_2020_Final_pg1.webp",
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/MGT/MGT303_ENT_Fall_2020_Final_pg2.webp",
@@ -1521,28 +1535,28 @@
   },
   {
     "title": "MGT303 - ENT Spring 2024 Mid MissFarwaBughvi",
-    "keywords": "2024 mid miss mgt303 sir midterm ent missfarwabughvi mam spring entrepreneurship mids",
+    "keywords": "mid midterm sir mgt303 spring entrepreneurship 2024 missfarwabughvi mam ent mids miss",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/MGT/MGT303_ENT_Spring_2024_Mid-MissFarwaBughvi.webp"
     ]
   },
   {
     "title": "MGT303 - ENT Spring 2024 Mid MissYusraRasheed",
-    "keywords": "2024 mid miss mgt303 sir midterm ent missyusrarasheed mam spring entrepreneurship mids",
+    "keywords": "mid midterm sir mgt303 missyusrarasheed spring entrepreneurship 2024 mam ent mids miss",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/MGT/MGT303_ENT_Spring_2024_Mid-MissYusraRasheed.webp"
     ]
   },
   {
     "title": "MGT306 - OB Spring 2024 Mid",
-    "keywords": "2024 mid mgt306 midterm ob organizational behavior spring mids",
+    "keywords": "mid organizational midterm behavior spring 2024 mgt306 mids ob",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/MGT/MGT306_OB_Spring_2024_Mid.webp"
     ]
   },
   {
     "title": "MGT320 - BRW Spring 2021 Final",
-    "keywords": "brw finals business terminal report 2021 mgt320 spring final writing",
+    "keywords": "2021 mgt320 terminal spring brw report business final writing finals",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/MGT/MGT320_BRW_Spring_2021_Final_pg1.webp",
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/MGT/MGT320_BRW_Spring_2021_Final_pg2.webp"
@@ -1550,14 +1564,14 @@
   },
   {
     "title": "MGT320 - BRW Spring 2024 Mid SirJawadSaleem",
-    "keywords": "brw 2024 mid business miss sir sirjawadsaleem midterm report mam mgt320 spring writing mids",
+    "keywords": "mid midterm mgt320 sir sirjawadsaleem spring brw 2024 report business writing mam mids miss",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/MGT/MGT320_BRW_Spring_2024_Mid-SirJawadSaleem.webp"
     ]
   },
   {
     "title": "PKS101 - PS Fall 2022 Final E",
-    "keywords": "pak finals final fall terminal pakistan self-support studies evening pks101 ps replica 2022",
+    "keywords": "pak evening studies terminal replica ps self-support finals pks101 final 2022 fall pakistan",
     "urls": [
       "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/PKS/PKS101_PS_Fall_2022_Final-E.webp"
     ]
