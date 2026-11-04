@@ -34,6 +34,23 @@
     ]
   },
   {
+    "title": "CHEM112 - PrinciplesofBiochemistry Fall 2026 Mid",
+    "keywords": "2026 chem chem112 fall mid mids midterm principles of biochemistry",
+    "courseCode": "CHEM112",
+    "courseCodes": ["CHEM112"],
+    "subjectCode": "PrinBiochem",
+    "subjectName": "",
+    "department": "CHEM",
+    "term": "Fall",
+    "year": "2026",
+    "examType": "Mid",
+    "shift": "",
+    "teacher": "",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/CHEM/CHEM112_PrinciplesofBiochemistry_Fall_2026_Mid.webp"
+    ]
+  },
+  {
     "title": "CS102 - PF Fall 2023 Final",
     "keywords": "2023 cs cs102 fall final finals fundamental fundamentals pf programming terminal",
     "courseCode": "CS102",
