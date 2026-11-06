@@ -3611,6 +3611,57 @@
     ]
   },
   {
+    "title": "IR203 - IPA Fall 2026 Mid",
+    "keywords": "2026 administration fall introduction ipa ir203 mid mids midterm ps public",
+    "courseCode": "IR203",
+    "courseCodes": ["IR203"],
+    "subjectCode": "IPA",
+    "subjectName": "Introduction to Public Administration",
+    "department": "PS",
+    "term": "Fall",
+    "year": "2026",
+    "examType": "Mid",
+    "shift": "",
+    "teacher": "",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/PS/IR203_IPA_Fall_2026_Mid.webp"
+    ]
+  },
+  {
+    "title": "POL207 - PSDUKUSA Fall 2026 Mid",
+    "keywords": "2026 developed fall mid mids midterm pol207 political ps psdukusa system uk usa",
+    "courseCode": "POL207",
+    "courseCodes": ["POL207"],
+    "subjectCode": "PSDUKUSA",
+    "subjectName": "Political System Developed UK and USA",
+    "department": "PS",
+    "term": "Fall",
+    "year": "2026",
+    "examType": "Mid",
+    "shift": "",
+    "teacher": "",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/PS/POL207_PSDUKUSA_Fall_2026_Mid.webp"
+    ]
+  },
+  {
+    "title": "POL424 - CPDPK Fall 2026 Mid",
+    "keywords": "2026 constitutional cpdpk development fall mid mids midterm pakistan pol424 political ps",
+    "courseCode": "POL424",
+    "courseCodes": ["POL424"],
+    "subjectCode": "CPDPK",
+    "subjectName": "Constitutional & Political Development in Pakistan",
+    "department": "PS",
+    "term": "Fall",
+    "year": "2026",
+    "examType": "Mid",
+    "shift": "",
+    "teacher": "",
+    "urls": [
+      "https://cdn.jsdelivr.net/gh/haider-rn/myuog-exams@master/PS/POL424_CPDPK_Fall_2026_Mid.webp"
+    ]
+  },
+  {
     "title": "SE101 - PF Fall 2022 Mid",
     "keywords": "2022 fall fundamental fundamentals mid mids midterm pf programming se se101",
     "courseCode": "SE101",
